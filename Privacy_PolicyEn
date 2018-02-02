@@ -2,6 +2,5 @@ Required permissions:
 ACCESS_NETWORK_STATE - to verify the possibility of calculation
 INTERNET - for sending data for calculation to the server, and obtaining a list of solutions
 WRITE_EXTERNAL_STORAGE - to save pdf reports (optional)
-READ_EXTERNAL_STORAGE - to read pdf from the site and send it to Ridan (optional)
 
 Data collected during registration is not transferred to third parties, and is required to identify the user when sending the calculation to Ridan.
